@@ -20,6 +20,11 @@
 
 大神写的回文数判定，比自己写的简便不少
 
-## NegativeBinomialDistributionDemo。Java
+------
+## NegativeBinomialDistributionDemo.Java
 
 输入n,p计算负二项分布的概率
+
+## beanstandard
+
+文字版格斗游戏，用于练习JavaBean
